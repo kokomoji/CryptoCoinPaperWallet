@@ -18,6 +18,27 @@ Always use the paper wallet generator offline. Go to the paper wallet's GitHub p
 **Private key** is for accessing and spending your coins so don't share it with anyone under any circumstances. Even with your closest relatives! Once your private key is handed over to someone else, they can spend the coins at the address that the key is connected to. That's why I recommend using only 1 address for each payment. You will know the safest place for your wallets to be loaded, but my advice is rental bank safes. You can apply a coating on paper against abrasion over time.
 
 
+
+
+###轻量级，开源通用纸钱包生成器
+
+＃＃＃＃ 特征
+*简单，高效，安全
+*客户端，可离线使用
+*不断更新
+*透明，易于审核
+*墨水友好
+*验证文件的完整性；表示文件未被篡改（请参阅下文）
+*支持超过510种加密货币
+
+####说明
+
+始终离线使用纸币钱包生成器。转到纸钱包的GitHub页面，在USB驱动器上下载最新版本，在没有互联网连接的计算机上的驱动器中打开zip文件。产生足够的钱包后，请打印并清除打印机内存。重新启动打印机将重置设备并清除其内存中所有活动的打印作业。为此，请关闭打印机，然后将其从电源插座中拔出。放置一分钟，然后将打印机插入电源插座。这将完全清除内存的电源并将其完全擦除。
+
+**公共地址**用于付款。您可以根据需要与任何人共享，甚至可以将其添加到您的论坛签名中。但是，我建议每次付款只使用1个地址。可以将其视为使用刻录机电话。
+
+**私钥**用于访问和消费硬币，因此在任何情况下都不要与任何人共享。即使与您的近亲！一旦您的私钥移交给其他人，他们就可以在与该密钥相连的地址上花费硬币。因此，我建议每次付款只使用1个地址。
+
 #### Integrity validation
 * [bitcoinjs-lib.js](https://github.com/bitcoinjs/bitcoinjs-lib) v3.3.2
 	* [SHA-256] 34fb2141b70f690a8eb9fa75e703e99b39f8538201250115fc895343b7739708
