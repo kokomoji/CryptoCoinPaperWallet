@@ -21,7 +21,7 @@ Always use the paper wallet generator offline. Go to the paper wallet's GitHub p
 
 
 
-下载后用本地浏览器即可离线运行，无需网络。
+下载后运行index.html即可，支持离线运行，无需网络。
 
 ###轻量级，开源通用纸钱包生成器
 
