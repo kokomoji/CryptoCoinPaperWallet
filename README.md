@@ -1,3 +1,5 @@
+Author:koraylinux
+
 ### Lightweight, open-source, universal paper wallet generator
 
 #### Features
@@ -19,6 +21,7 @@ Always use the paper wallet generator offline. Go to the paper wallet's GitHub p
 
 
 
+下载后用本地浏览器即可离线运行，无需网络。
 
 ###轻量级，开源通用纸钱包生成器
 
